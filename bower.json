@@ -1,0 +1,22 @@
+{
+  "name": "expand",
+  "authors": [
+    "tpluscode <tpluscode@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mat-elements": "expandjs/mat-elements#^1.3.0",
+    "paper-icon-button": "polymerelements/paper-icon-button#^2.0.1",
+    "iron-icons": "polymerelements/iron-icons#^2.0.1"
+  }
+}
